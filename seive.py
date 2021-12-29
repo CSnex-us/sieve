@@ -1,6 +1,6 @@
 '''
 	Sieve of Eratosthenes
-	an prime number identifier algorithm
+	a prime number identifier algorithm
 '''
 sieve = [True] * 101
 print(sieve)
